@@ -41,6 +41,9 @@ https://wa.me/message/3VSHDZE4TBKUN1
 ### Email
 astrafghtclub@gmail.com
 
+## Instagram
+https://instagram.com/astrafightclub
+
 ### Gym Location
 https://share.google/Y0AmHrMX2MAkT871f
 
