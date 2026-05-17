@@ -1,13 +1,26 @@
-# 🥊 ASTRA FIGHT CLUB Website
+# 🥊 ASTRA FIGHT CLUB
 
-Welcome to the official repository for the **Astra Fight Club** website, hosted entirely for free via GitHub Pages.
+Welcome to the official repository for the Astra Fight Club website.
 
-## 🌟 Features
-- **Dark Combat Theme:** Designed specifically for a premium fight club aesthetic.
-- **Fully Responsive:** Beautiful layout on mobile, tablet, and desktop screens.
-- **Direct Action Buttons:** Quick links for users to call, email, or locate the gym instantly.
+A modern combat sports website built with HTML and CSS and hosted using GitHub Pages.
 
-## 🥋 Offered Disciplines
+---
+
+## 🔥 Features
+
+- Premium dark combat theme
+- Fully responsive design
+- Smooth animations and hover effects
+- Mobile-friendly layout
+- Direct WhatsApp contact integration
+- Google Maps gym location
+- Training program showcase
+- Professional fight-club branding
+
+---
+
+## 🥋 Training Programs
+
 - Boxing
 - Kickboxing
 - Wushu Sanda
@@ -15,10 +28,29 @@ Welcome to the official repository for the **Astra Fight Club** website, hosted 
 - MMA Training
 - Karate
 
-## 📞 Gym Contact Info
-- **Phone:** +91 9846549631
-- **Email:** astrafghtclub@gmail.com
-- **Location:** [Google Maps Link](https://share.google/Y0AmHrMX2MAkT871f)
+---
+
+## 📞 Contact Information
+
+### WhatsApp
+https://wa.me/message/3VSHDZE4TBKUN1
+
+### Phone Numbers
+- +91 8921222727
+- +91 9048959363
+
+### Email
+astrafghtclub@gmail.com
+
+### Gym Location
+https://share.google/Y0AmHrMX2MAkT871f
 
 ---
-*Created and maintained by Astra Fight Club © 2026.*
+
+## 🌐 Live Website
+
+https://astrafightclub-afk.github.io/
+
+---
+
+## 📂 Project Structure
