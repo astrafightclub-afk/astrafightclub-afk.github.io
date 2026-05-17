@@ -37,7 +37,6 @@ https://wa.me/message/3VSHDZE4TBKUN1
 
 ### Phone Numbers
 - +91 8921222727
-- +91 9048959363
 
 ### Email
 astrafghtclub@gmail.com
