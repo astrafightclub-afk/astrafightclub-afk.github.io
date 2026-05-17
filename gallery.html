@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ASTRA FIGHT CLUB | Gallery</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial,sans-serif;
+        }
+
+        body{
+            background:#0b0b0b;
+            color:white;
+        }
+
+        header{
+            background:black;
+            padding:20px;
+            text-align:center;
+            border-bottom:2px solid #ff3333;
+        }
+
+        header h1{
+            color:#ff3333;
+            letter-spacing:2px;
+        }
+
+        .gallery-container{
+            max-width:1200px;
+            margin:auto;
+            padding:50px 20px;
+        }
+
+        .gallery-grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+            gap:20px;
+        }
+
+        .gallery-grid img{
+            width:100%;
+            height:250px;
+            object-fit:cover;
+            border-radius:10px;
+            transition:0.3s;
+            border:2px solid #1a1a1a;
+        }
+
+        .gallery-grid img:hover{
+            transform:scale(1.05);
+            border-color:#ff3333;
+        }
+
+        .back-btn{
+            display:inline-block;
+            margin-top:40px;
+            background:#ff3333;
+            padding:12px 25px;
+            border-radius:6px;
+            color:white;
+            text-decoration:none;
+            font-weight:bold;
+        }
+
+        .back-btn:hover{
+            background:#cc0000;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ASTRA FIGHT CLUB GALLERY</h1>
+</header>
+
+<section class="gallery-container">
+
+    <div class="gallery-grid">
+
+        <img src="images/gallery1.jpg" alt="">
+        <img src="images/gallery2.jpg" alt="">
+        <img src="images/gallery3.jpg" alt="">
+        <img src="images/gallery4.jpg" alt="">
+        <img src="images/gallery5.jpg" alt="">
+        <img src="images/gallery6.jpg" alt="">
+
+    </div>
+
+    <a href="index.html" class="back-btn">← Back Home</a>
+
+</section>
+
+</body>
+</html>
